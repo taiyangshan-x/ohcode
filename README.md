@@ -1,0 +1,2 @@
+# ohcode
+lan is python
